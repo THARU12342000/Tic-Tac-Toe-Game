@@ -8,7 +8,6 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class TicTacToeServer {
-
 	private static Game game = new Game();
 	private static int currentPlayer = 0; // 0 for Player X, 1 for Player O
 

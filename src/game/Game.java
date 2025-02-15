@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Game {
-
 	private static char[] BOARD = new char[9];
 	private static int[][] WIN_CHANCES = {
 			{ 0, 1, 2 }, { 3, 4, 5 }, { 6, 7, 8 }, { 0, 3, 6 },

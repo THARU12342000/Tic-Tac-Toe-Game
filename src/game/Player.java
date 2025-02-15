@@ -7,7 +7,6 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 public class Player extends Thread {
-
 	String serverAddress = "localhost";
 	int port = 5999;
 	Socket socket;
