@@ -15,11 +15,11 @@ A fun, interactive, and competitive Java-based **two-player Tic-Tac-Toe** client
 
 🎲 **Game Board Layout:**
 ```
- 🟢 | 🔵 | 🔴 
+ ❌ | ⭕ | ❌ 
 ----+----+----
- 🔵 | 🔴 | 🟢 
+ ⭕ | ❌ | ⭕ 
 ----+----+----
- 🔴 | 🟢 | 🔵 
+ ❌ | ⭕ | ❌ 
 ```
 
 🎉 **Get ready for an intense battle of wits and strategy!** 🏆🔥
